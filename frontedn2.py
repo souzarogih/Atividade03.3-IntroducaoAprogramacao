@@ -13,7 +13,7 @@ maior_altura = 0
 menor_altura = 0
 dados_media_homens = []
 
-while qtd_total <= 4:
+while qtd_total <= 14:
     altura = float(input('Digite a altura: '))
     genero = input('Digite o genero: ')
 
